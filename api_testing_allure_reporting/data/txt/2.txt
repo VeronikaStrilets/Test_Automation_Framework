@@ -1,0 +1,20 @@
+_id 64d910255e1a42f91cf3fe09
+index 0
+guid d7fca2ff-bceb-472f-8454-2a20ae90c759
+isActive
+balance $3,998.76
+picture http://placehold.it/32x32
+age 29
+eyeColor brown
+name Wilcox Cox
+gender male
+company EXERTA
+email wilcoxcox@exerta.com
+phone +1 (804) 480-3099
+address 746 Trucklemans Lane, Dahlen, Minnesota, 3869
+about Et est aute commodo exercitation ut ex est. Lorem magna ipsum do proident nisi ipsum occaecat incididunt exercitation laborum elit sit. Qui fugiat ea occaecat sit pariatur laborum veniam officia ullamco anim anim sunt pariatur.
+
+registered 2019-12-09T08:59:45 -02:00
+latitude 74.157624
+longitude -25.573765
+greeting Hello, Wilcox Cox! You have 7 unread messages.
