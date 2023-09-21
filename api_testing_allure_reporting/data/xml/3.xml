@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<result>
+    <_id>64d910255e1a42f91cf3fe09</_id>
+    <index>0</index>
+    <guid>d7fca2ff-bceb-472f-8454-2a20ae90c759</guid>
+    <isActive/>
+    <balance>$3,998.76</balance>
+    <picture>http://placehold.it/32x32</picture>
+    <age>29</age>
+    <eyeColor>brown</eyeColor>
+    <name>Wilcox Cox</name>
+    <gender>male</gender>
+    <company>EXERTA</company>
+    <email>wilcoxcox@exerta.com</email>
+    <phone>+1 (804) 480-3099</phone>
+    <address>746 Trucklemans Lane, Dahlen, Minnesota, 3869</address>
+    <about>Et est aute commodo exercitation ut ex est. Lorem magna ipsum do proident nisi ipsum occaecat incididunt exercitation laborum elit sit. Qui fugiat ea occaecat sit pariatur laborum veniam officia ullamco anim anim sunt pariatur.</about>
+    <registered>2019-12-09T08:59:45 -02:00</registered>
+    <latitude>74.157624</latitude>
+    <longitude>-25.573765</longitude>
+    <greeting>Hello, Wilcox Cox! You have 7 unread messages.</greeting>
+</result>
