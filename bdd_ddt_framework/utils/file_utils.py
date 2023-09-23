@@ -4,18 +4,6 @@ import allure
 import yaml
 
 
-# def read_data_file(file_path: str) -> str:
-#     """Read a file in the data folder and return its content as a string."""
-#     data_folder = os.path.join(os.path.dirname(__file__), "..", "data")
-#     file_path = os.path.join(data_folder, file_path)
-#
-#     with open(file_path, "r", encoding="utf-8") as file:
-#         file_content = file.read()
-#
-#     return file_content
-#
-# import os
-
 def read_data_file(file_path: str) -> str:
     """Read a file in the data folder and return its content as a string."""
     data_folder = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'data'))
@@ -25,8 +13,6 @@ def read_data_file(file_path: str) -> str:
         file_content = file.read()
 
     return file_content
-
-
 
 def read_yaml_file(file_path):
     """Read a YAML file, remove inappropriate signs, and return the data as a string."""
