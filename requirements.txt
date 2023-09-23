@@ -31,3 +31,7 @@ wsproto==1.2.0
 zipp==3.16.2
 
 python-dotenv~=1.0.0
+behave~=1.2.6
+PyYAML~=6.0.1
+ddt~=1.6.0
+pytest-bdd~=6.1.1
